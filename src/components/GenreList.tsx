@@ -25,5 +25,4 @@ const GenreList = ({selectedGenre, onSelectGenre}: Props) => {
             </List>
     )
 }
-
 export default GenreList;
